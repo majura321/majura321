@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @majura321
 - 👀 I’m interested in intelligence 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on python 
+- 🌱 I’m python developer 
 - 📫 How to reach me majuradaudi7@gmail.com
 
 <!---
